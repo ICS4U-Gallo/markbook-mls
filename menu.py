@@ -131,11 +131,11 @@ def markbook():
     menu()
 
 
-# Menu funcition, lets users navigate through the markbook.
+# Menu function, lets users navigate through the markbook.
 def menu():
 
     print ("""
-        Wlcome to Markbook
+        Welcome to Markbook
         1: Student
         2: Classroom
         3: Assignments
